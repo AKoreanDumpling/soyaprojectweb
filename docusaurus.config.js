@@ -13,7 +13,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.jpeg",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -54,7 +54,7 @@ const config = {
         title: "The Soya Project",
         logo: {
           alt: "Soya Logo",
-          src: "img/logo.png",
+          src: "img/logo.svg",
         },
         items: [
           {

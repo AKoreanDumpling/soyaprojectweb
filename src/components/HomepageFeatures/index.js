@@ -6,7 +6,6 @@ const FeatureList = [
   {
     title: "Special Thanks:",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
-    Svg: require("@site/static/img/Canonical Ubuntu.svg").default,
   },
 ];
 
