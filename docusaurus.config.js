@@ -86,4 +86,7 @@ const config = {
 		}),
 };
 
-module.exports = config;
+module.exports = {
+	plugins: ["@gracefullight/docusaurus-plugin-vercel-analytics"],
+	presets: [require.resolve("@docusaurus/core/lib/babel/preset")],
+};
